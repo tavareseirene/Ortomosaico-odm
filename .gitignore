@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.log
+
+# VS Code
+.vscode/
+
+# Dados grandes / ortomosaico / ODM
+*.tif
+*.tiff
+*.jpg
+*.jpeg
+*.png
+*.dng
+*.avi
+*.mp4
+*.mov
+*.JPG
+
+odm_projects/
+opensfm/
+odm_filterpoints/
+odm_meshing/
+odm_texturing*/
+odm_orthophoto/
+odm_georeferencing/
+odm_report/
+
+# Outputs
+outputs/
+runs/
+results/
+*.csv
