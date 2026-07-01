@@ -2,6 +2,8 @@
 
 Projeto local para geração de ortomosaicos a partir de imagens capturadas com drone DJI, usando **OpenDroneMap/ODM** via Docker.
 
+https://github.com/OpenDroneMap/ODM/blob/master/README.md
+
 O objetivo principal é processar imagens aéreas com metadados EXIF/GPS e gerar um **ortomosaico final em GeoTIFF (`.tif`)**, pronto para uso em QGIS, ArcGIS ou outros softwares GIS.
 
 ---
